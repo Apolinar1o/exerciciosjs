@@ -1,2 +1,2 @@
-# Olá, mundo!
- primeiro repositório do curso de git
+# exercícios
+ Repositório criado para realizar exercícios de Java script
