@@ -18,11 +18,13 @@ function VERIFICAR_HORA (hora, nome) {
       
 } 
 res.innerHTML += `<br> Agora são ${hora} horas`
+
 return hora
 }
 function HORA() {
     let agora = new Date()
     res = document.getElementById("res")
+    res.innerHTML = ""
     nome = document.getElementById("nome")
     img = document.getElementById("imagem") 
     VERIFICAR_HORA(agora.getHours(), nome)
