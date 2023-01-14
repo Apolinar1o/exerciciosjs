@@ -49,10 +49,10 @@ function RETIRADA(nota100, nota50, nota20, nota5) {
      console.log("e agora você tem " + (valor_Total-valor_Retirada +" reais"))
 }
 
-let nome = ("Antônio")
+let nome = ("Carlos")
 let valor_Total = 1000
-let valor_Retirada = 1
-console.log(`Bom dia!${nome}`)
+let valor_Retirada = 555
+console.log(`Bom dia! ${nome}`)
 console.log(`Você tem ${valor_Total} reais`)
 console.log(`Você quer retirar ${valor_Retirada} ` )
 RETIRADA(100, 50, 20, 5 )
