@@ -1,0 +1,34 @@
+body {
+    background-image: url(imagens/fundo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+  
+   
+}
+header {
+    margin-left: 90px;
+}
+section {
+    width: 450px;
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0.893);
+    border-radius: 10px;
+    box-shadow:5px 5px 10px rgba(0, 0, 0, 0.304);
+    padding: 20px;
+
+}
+footer {
+    margin-left: 160px;
+    font-style: italic;
+}
+input {
+    margin-bottom: 10px;
+}
+div {
+    text-align: center;
+} 
+img#imagem {
+
+}
